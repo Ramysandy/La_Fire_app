@@ -18,6 +18,7 @@ A comprehensive overview of critical information, including:
   - Total Value Claimed
   - Items Claimed (Approved)
 - **Analytics**: Interactive charts to visualize product categories and claim statuses.
+![Screenshot 2025-01-16 at 3 29 00 PM](https://github.com/user-attachments/assets/335fd968-fb15-4ea7-9568-a627dcbe9e29)
 
 ---
 
@@ -29,6 +30,7 @@ A simple and intuitive form to document items lost in the fire:
   - Photo Upload (Optional)
   - Estimated Value
   - Additional Notes
+![Screenshot 2025-01-16 at 3 29 21 PM](https://github.com/user-attachments/assets/572d705d-0d3f-4908-a2ed-808ea4668e83)
 
 ---
 
@@ -37,6 +39,7 @@ A dedicated page to review and export logged items:
 - **Search Bar**: Locate items quickly by name.
 - **Visual List**: Display items with uploaded images, categories, and estimated values.
 - **Export Functionality**: Download the list of logged items as a PDF for insurance claims or personal records.
+![Screenshot 2025-01-16 at 3 29 40 PM](https://github.com/user-attachments/assets/29a65d1c-e6ea-4d92-b5dd-b4a9c67cde73)
 
 ---
 
@@ -48,6 +51,7 @@ Monitor the status of submitted claims:
   - Total Estimated Value
 - **Progress Bar**: Visual representation of claim completion.
 - **Actionable Steps**: Take further actions as needed.
+![Screenshot 2025-01-16 at 3 30 07 PM](https://github.com/user-attachments/assets/5c8e91b5-2de2-439c-9427-eee58073d7fc)
 
 ---
 
@@ -58,6 +62,7 @@ Access vital resources with real-time data using APIs:
   - Food
   - Shelter
 - Display results with location details and contact information.
+![Screenshot 2025-01-16 at 3 30 25 PM](https://github.com/user-attachments/assets/895562a8-e957-436c-a8da-658122bb173f)
 
 ---
 
@@ -68,6 +73,7 @@ Critical information at your fingertips:
 - Insurance Claim Guide
 - Fire Safety Tips
 - Emergency Evacuation Plans
+![Screenshot 2025-01-16 at 3 30 42 PM](https://github.com/user-attachments/assets/5aeaa7b8-762b-4e2c-98fb-742dcc003ad9)
 
 ---
 
