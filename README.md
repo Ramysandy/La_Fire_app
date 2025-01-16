@@ -1,4 +1,4 @@
-# Fire Recovery Companion
+# Fire Recovery Companion - For Wildfires in Los Angeles 
 
 ## Overview
 In the wake of devastating wildfires, residents face significant challenges in recovering lost belongings, accessing critical resources, and managing insurance claims. The **Fire Recovery Companion** is a web application designed to streamline the recovery process by providing centralized tools for tracking, analytics, and real-time updates.
