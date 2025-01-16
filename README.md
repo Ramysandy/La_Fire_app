@@ -19,6 +19,8 @@ A comprehensive overview of critical information, including:
   - Items Claimed (Approved)
 - **Analytics**: Interactive charts to visualize product categories and claim statuses.
 ![Screenshot 2025-01-16 at 3 29 00 PM](https://github.com/user-attachments/assets/335fd968-fb15-4ea7-9568-a627dcbe9e29)
+![Screenshot 2025-01-16 at 3 31 38 PM](https://github.com/user-attachments/assets/2cb13b53-397e-48dc-b175-ea188e4abb05)
+
 
 ---
 
