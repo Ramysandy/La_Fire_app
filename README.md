@@ -1,7 +1,7 @@
-# Lost & Found: Fire Recovery Companion
+# Fire Recovery Companion
 
 ## Overview
-In the wake of devastating wildfires, residents face significant challenges in recovering lost belongings, accessing critical resources, and managing insurance claims. The **Lost & Found: Fire Recovery Companion** is a web application designed to streamline the recovery process by providing centralized tools for tracking, analytics, and real-time updates.
+In the wake of devastating wildfires, residents face significant challenges in recovering lost belongings, accessing critical resources, and managing insurance claims. The **Fire Recovery Companion** is a web application designed to streamline the recovery process by providing centralized tools for tracking, analytics, and real-time updates.
 
 This project highlights expertise in **data analytics**, **full-stack web development**, and **UI/UX design**, demonstrating how technology can address real-world problems effectively.
 
